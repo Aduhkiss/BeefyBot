@@ -1,0 +1,23 @@
+{
+  "name": "beefybot",
+  "version": "1.0.0",
+  "description": "BeefyBot is a Discord Bot Written in JavaScript",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angusbeefsteak/BeefyBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angusbeefsteak/BeefyBot/issues"
+  },
+  "homepage": "https://github.com/angusbeefsteak/BeefyBot#readme"
+}

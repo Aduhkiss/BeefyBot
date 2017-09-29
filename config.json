@@ -1,0 +1,9 @@
+{
+    "token":"MzM5ODUxODI0MjM4NTU5MjUy.DF1eoA.GrNZSixsYsgpNDO58fmz3LCwpBA",
+    "prefix":"&",
+	"version": 1.6,
+	"game":"use &help",
+	"test":"TEST",
+	"useDatabase": true
+}
+
